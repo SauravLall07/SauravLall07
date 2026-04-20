@@ -23,6 +23,7 @@ Currently working on:
 **Languages**
 - Python
 - JavaScript
+- Java
 - C / C++
 
 **Data & Machine Learning**
@@ -43,7 +44,7 @@ Currently working on:
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### Stock Price Forecasting
 Predicts next-day stock prices using:
@@ -58,6 +59,14 @@ Predicts next-day stock prices using:
 - Data visualisation of predictions
 
 https://github.com/SauravLall07/Stock_forecast
+
+### Restaurant tracker (GrubFlow)
+-User Authentication: Login and registration for customers and staff.
+-Restaurant Browsing: View available restaurants and their menus.
+-Order Management: Create, edit, and track orders with different statuses (Pending, Delivered, Collected).
+-Staff Dashboard: Dedicated interface for staff to handle new orders and manage existing ones.
+-Order History: View and edit past orders.
+-About Us: Information about the application and its creators.
 
 ---
 
@@ -76,8 +85,4 @@ https://github.com/SauravLall07/Stock_forecast
 
 ## 📫 Contact
 
-- GitHub: https://github.com/YOUR_USERNAME
-
----
-
-⭐ Always building, learning, and improving.
+- GitHub: https://github.com/SauravLall07
