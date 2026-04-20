@@ -1,4 +1,4 @@
-# Hi, I'm Saurav 👋
+# Hi, I'm Saurav
 
 Computer Science Student  
 Python • Machine Learning • Full-Stack Development  
@@ -77,12 +77,12 @@ https://github.com/SauravLall07/Stock_forecast
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SauravLall07&show_icons=true&theme=default)
 
 ---
 
-## 📫 Contact
+## Contact
 
 - GitHub: https://github.com/SauravLall07
