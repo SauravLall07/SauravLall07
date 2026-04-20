@@ -57,20 +57,20 @@ Predicts next-day stock prices using:
 - Model comparison using MAE & RMSE
 - Data visualisation of predictions
 
-👉 (Add your repo link here once uploaded)
+https://github.com/SauravLall07/Stock_forecast
 
 ---
 
-## 🧪 Other Projects
+## Other Projects (In development)
 
-- 🛒 Campus Marketplace App (Full-stack)
-- 🧠 Algorithm & Data Structure Implementations
+- Campus Marketplace App (Full-stack)
+- Algorithm & Data Structure Implementations
 
 ---
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=SauravLall07&show_icons=true&theme=default)
 
 ---
 
