@@ -61,12 +61,12 @@ Predicts next-day stock prices using:
 https://github.com/SauravLall07/Stock_forecast
 
 ### Restaurant tracker (GrubFlow)
--User Authentication: Login and registration for customers and staff.
--Restaurant Browsing: View available restaurants and their menus.
--Order Management: Create, edit, and track orders with different statuses (Pending, Delivered, Collected).
--Staff Dashboard: Dedicated interface for staff to handle new orders and manage existing ones.
--Order History: View and edit past orders.
--About Us: Information about the application and its creators.
+- User Authentication: Login and registration for customers and staff.
+- Restaurant Browsing: View available restaurants and their menus.
+- Order Management: Create, edit, and track orders with different statuses (Pending, Delivered, Collected).
+- Staff Dashboard: Dedicated interface for staff to handle new orders and manage existing ones.
+- Order History: View and edit past orders.
+- About Us: Information about the application and its creators.
 
 https://github.com/SauravLall07/GrubFlow
 
