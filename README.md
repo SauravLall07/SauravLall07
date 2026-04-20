@@ -1,24 +1,24 @@
 # Hi, I'm Saurav 👋
 
-🎓 Computer Science Student  
-💻 Python • Machine Learning • Full-Stack Development  
-📊 Interested in Data, AI, and Systems  
+Computer Science Student  
+Python • Machine Learning • Full-Stack Development  
+Interested in Data, AI, and Systems  
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Computer Science student with a strong focus on building real-world projects.  
 My work combines **machine learning, time-series analysis, and software development**.
 
 Currently working on:
-- 📈 Stock Price Forecasting System (ARIMA, LSTM)
-- 🌐 Full-stack marketplace application
-- ⚡ Parallel computing & performance optimisation (OpenMP)
+- Stock Price Forecasting System (ARIMA, LSTM)
+- Full-stack marketplace application
+- Parallel computing & performance optimisation (OpenMP)
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 **Languages**
 - Python
@@ -43,9 +43,9 @@ Currently working on:
 
 ---
 
-## 📊 Featured Project
+## Featured Project
 
-### 📈 Stock Price Forecasting
+### Stock Price Forecasting
 Predicts next-day stock prices using:
 - Naive baseline
 - Linear Regression
